@@ -1,4 +1,4 @@
-Merge Sort for descending order
+#Merge Sort for descending order
 def merge(left,right):
 result=[]
 i,j=0,0
